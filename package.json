@@ -12,6 +12,7 @@
     "hardhat": "^2.16.1"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2",
     "@superfluid-finance/sdk-core": "^0.6.6",
     "ethers": "^5.7.2",
     "graphql": "^16.7.1"
